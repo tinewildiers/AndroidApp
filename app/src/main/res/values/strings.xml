@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ScienceTrial</string>
+    <string-array name="level_item">
+        <item>Familie</item>
+        <item>Studenten</item>
+        <item>Toeristen</item>
+    </string-array>
+
+    <string-array name="theme_item">
+        <item>Onderzoek op KUL</item>
+        <item>Omgeving en duurzaamheid</item>
+        <item>Cultuur</item>
+        <item>Natuur</item>
+    </string-array>
+
+    <string-array name="duration_item">
+        <item>Kort</item>
+        <item>Lang</item>
+    </string-array>
+</resources>
